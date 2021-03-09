@@ -1,7 +1,8 @@
 # Павшинский бульвар
 
 # Квартплата: УК Павшино
-```site: http://new.uk-servicedom.ru/
+```
+site: http://new.uk-servicedom.ru/
 счетчики только холодной воды подавать сюда
 e-mail:
 ```
@@ -9,26 +10,32 @@ e-mail:
 ```
 ```
 # Водоканал 
-```site: http://водоканал-павшино.рф/personal/
+```
+site: http://водоканал-павшино.рф/personal/
 e-mail:
 ```
 # ТСВ (подогрев воды и отопление)
-```site: www.mfc.msk.ru
+```
+site: www.mfc.msk.ru
 e-mail:
 ```
 # Мусор
-```n/a
+```
+n/a
 e-mail:
 ```
 # Электричество
-```site: https://my.mosenergosbyt.ru/auth
+```
+site: https://my.mosenergosbyt.ru/auth
 e-mail:
 ```
 # Интернет 
-```https://lk.seven-sky.net
+```
+https://lk.seven-sky.net
 e-mail:
 ```
 # Котельная павшино (кончилось)
-```http://котельная-павшино.рф/
+```
+http://котельная-павшино.рф/
 e-mail:
 ```
