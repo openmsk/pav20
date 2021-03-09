@@ -2,7 +2,7 @@
 
 #### Квартплата: УК Павшино
 *
-site: (http://new.uk-servicedom.ru/)
+site: [http://new.uk-servicedom.ru/](http://new.uk-servicedom.ru/)
 счетчики только холодной воды подавать сюда
 e-mail:
 
