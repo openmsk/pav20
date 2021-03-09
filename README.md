@@ -1,11 +1,11 @@
 ### Павшинский бульвар
 
 ### Квартплата: УК Павшино
-site: [new.uk-servicedom.ru/](http://new.uk-servicedom.ru/)
+* site: [new.uk-servicedom.ru/](http://new.uk-servicedom.ru/)
 
-счетчики только холодной воды подавать сюда
+* счетчики только холодной воды подавать сюда
 
-e-mail:
+* e-mail:
 
 #### Капитальный ремонт: УК Павшино
 
